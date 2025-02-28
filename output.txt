@@ -1,0 +1,10 @@
+epoch : 1, train_loss : 0.00873, test_loss : 0.00849
+epoch : 2, train_loss : 0.00736, test_loss : 0.00608
+epoch : 3, train_loss : 0.00460, test_loss : 0.00350
+epoch : 4, train_loss : 0.00294, test_loss : 0.00251
+epoch : 5, train_loss : 0.00228, test_loss : 0.00206
+epoch : 6, train_loss : 0.00194, test_loss : 0.00178
+epoch : 7, train_loss : 0.00174, test_loss : 0.00162
+epoch : 8, train_loss : 0.00161, test_loss : 0.00150
+epoch : 9, train_loss : 0.00152, test_loss : 0.00144
+epoch : 10, train_loss : 0.00145, test_loss : 0.00137
