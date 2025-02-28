@@ -6,7 +6,6 @@ import torchvision
 import torchvision.transforms as transforms
 import numpy as np
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 class Net(nn.Module):
     def __init__(self, input_size, hidden1_size, hidden2_size, output_size):
